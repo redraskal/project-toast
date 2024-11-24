@@ -287,7 +287,7 @@ There are lots of different ways to tackle this, and there's no right or wrong a
 
 ```js
 useEscapeKey(() => {
-  // Code to dismiss all toasts
+	// Code to dismiss all toasts
 });
 ```
 
